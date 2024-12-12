@@ -23,7 +23,7 @@ Follow the steps below to set up the project locally:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-repo-name.git
-cd your-repo-name 
+git clone https://github.com/IceBear3147/Gender_detection_from_scartch
+cd Gender_detection_from_scartch 
 
 
